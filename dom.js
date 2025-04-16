@@ -33,5 +33,3 @@ console.dir(heading2)//returns collection of html
 //inner text for visible lement 
 
 //textContent used for invisible content
-
-let div=document.querySelector(".div")
